@@ -74,7 +74,7 @@ CTEST(move_suite, move_pawn) // Ход пешки
 	print_chess (mass);
 
 	//THEN
-	const int expected1 = 1;
+	const int expected1 = 0;
 	const int expected2 = 1;
 	const int expected3 = 0;
 	const int expected4 = 0;
